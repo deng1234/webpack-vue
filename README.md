@@ -55,7 +55,7 @@ Exam
 ├── src                                
 |  ├── assets                          
 |     ├── css                          
-|		├── reset.css                  # 公共文件
+|		├── public.css                  # 公共文件
 |  ├── components                            
 |     ├── vue-index                    # 题目页面  
 |     ├── vue-login			           # 登录页面
